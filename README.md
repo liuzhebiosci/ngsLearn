@@ -8,12 +8,17 @@ I document the materials to learn Next Generation Sequencing (NGS) and the learn
   An good additional exercise is here. 
   http://www.ark-genomics.org/events-online-training/counting-known-micrornas-five-easy-steps.
 
-2. The customised NGS toolkit, including bedtools, samtools, seqtk, and tabix are then reviewed. These materials are good start point for each of the tools.
-  bedtools http://quinlanlab.org/tutorials/bedtools/bedtools.html
-  bioawk https://github.com/lh3/bioawk
-  seqtk https://github.com/lh3/seqtk
-  tabix http://www.htslib.org/doc/tabix.html
-  samtools http://samtools.github.io/
+2. The customised NGS toolkit, including bedtools, samtools, seqtk, and tabix are then reviewed, are good start point.
+  
+	bedtools http://quinlanlab.org/tutorials/bedtools/bedtools.html
+  
+	bioawk https://github.com/lh3/bioawk
+  
+	seqtk https://github.com/lh3/seqtk
+  
+	tabix http://www.htslib.org/doc/tabix.html
+  
+	samtools http://samtools.github.io/
 
 3. Python for biologist
 
